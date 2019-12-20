@@ -1,0 +1,106 @@
+{
+    "name": "Voxeo",
+    "description": "Aspect provides complete call center solutions and technology to help companies create better experiences for their customers and the employees who serve them. Flexible, highly-scalable Cloud, Hosted and On-Premises options for contact center, IVR\/self...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/521-voxeo.jpg",
+    "tags": [
+        "have api",
+        "ivr",
+        "telecommunications",
+        "tts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/voxeo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Voxeo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/521-voxeo.jpg",
+            "humanURL": "http:\/\/www.voxeo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/voxeo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.location.staging.voxeo.net"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.voxeo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.voxeo.com\/AllVoxeoBlogs"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/voxeo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aspect-software"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.voxeo.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "communications@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal-info@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "communitymanager@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "HRSC@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "NA.AccountsPayable@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "INTAccountsPayable@aspect.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@aspect.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/voxeo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/voxeo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AspectSoftware"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.voxeo.com"
+        }
+    ]
+}
